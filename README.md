@@ -71,6 +71,9 @@ job_app_tracker/
 ├── static/              # (optional CSS)
 └── README.md
 ```
+## 🔗 Live Demo
+
+Check it out here: [Job Application Tracker Live](https://9a96d6b9-d818-499a-982e-05176a98c8ec-00-10vj3uwy7qrb0.sisko.replit.dev)
 
 ---
 
